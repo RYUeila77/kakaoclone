@@ -1,0 +1,69 @@
+body {
+    background-color: white;
+    font-size: 25px;
+    font-family: Jua;
+}
+
+div {
+    line-height: 20px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+a {
+    text-decoration-line: none;
+    text-decoration-color: black;
+    color: black;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+a:active {
+    color: darkblue;
+}
+
+table {
+    margin-top: 40px;
+    padding: 5px;
+    width: 100%;
+    margin-left: 5px;
+}
+
+td {
+    text-align: center;
+}
+
+.wal {
+    background-color: #fee513;
+    margin-top: 10px;
+    padding: 30px;
+    margin-left: 5px;
+}
+
+.ps {
+    border: 1px solid #fefce3;
+    border-radius: 10px;
+    background-color: #fefce3;
+    padding: 10px;
+    padding-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bu {
+    border-right: 1px solid lightgray;
+    padding-right: 30px;
+    float: left;
+    margin-right: 30px;
+}
+
+.fl {
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+}
